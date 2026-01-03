@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/frontend-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kiosk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/laravel/lalitpurpalika" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mobile-basgadi/palika-expo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mobile-gaurishankar/gaurisankhar-mobile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mobile-khajura/khajura-mobile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/palika-expo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pwa-kisok/wpa-kiosk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pwa-smart-board" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pwa-tv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wpa-kiosk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wpa-kiosk-1" vcs="Git" />
+  </component>
+</project>
